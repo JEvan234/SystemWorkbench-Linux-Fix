@@ -4,7 +4,7 @@ This repository features a guide to get STM SystemWorkbench running on linux.
 # Requirements
 - Bottles (Flatpak)
 - ST link driver
-- STM system workbench **Windows Installer**
+- STM system workbench **Windows Installer (.EXE)**
 - JRE8 MSI file from Adoptium
 
 # Steps
